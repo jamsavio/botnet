@@ -1,5 +1,5 @@
 # botnet
-<h3>Tarefa sobre sockets passada na disciplina de redes 1 como composição da nota da AB1</h3>
+<h3>Tarefa sobre sockets solicitada na disciplina de Redes de Computadores 1 como composição da nota da AB1</h3>
 
 Uma botnet ou rede de robôs ou zumbis são redes de computadores infectados por um
 malware de acesso remoto, no qual fica aguardando uma ordem para atacar um alvo,
