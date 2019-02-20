@@ -13,4 +13,4 @@ utilização do servidor
 
 <h3>Parâmetros da botnet :</h3>
 
-<a href="https://github.com/jamsavio/botnet/blob/master/Especifica%C3%A7%C3%B5es.pdf" target="_blank">Clique aqui para ler no Google Drive...</a>
+<a href="https://github.com/jamsavio/botnet/blob/master/Especifica%C3%A7%C3%B5es.pdf" target="_blank">Clique aqui para ler...</a>
