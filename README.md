@@ -11,8 +11,8 @@ servidor não consiga responder a todos os acessos e acabe caindo, ou consiga re
 aos acessos mas por serem muitos, fica extremamente lento, tornando inviável a
 utilização do servidor
 
-Parâmetros da botnet :
-<br>
+<h3>Parâmetros da botnet :</h3>
+<br><br>
 Comando: <b> <esganar slaves> </b><br>
  Ao enviar este comando no server.py os clients que estiverem escutando o
 server irão encerrar o processo client.py, interrompendo assim a comunicação
