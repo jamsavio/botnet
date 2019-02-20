@@ -12,18 +12,5 @@ aos acessos mas por serem muitos, fica extremamente lento, tornando inviável a
 utilização do servidor
 
 <h3>Parâmetros da botnet :</h3>
-Comando:
-> <esganar slaves>
- Ao enviar este comando no server.py os clients que estiverem escutando o
-server irão encerrar o processo client.py, interrompendo assim a comunicação
-com o mesmo.
-<br><br>
-Comando: 
-> <aperriar ip:port> <br>
- Ao enviar este comando no server.py, por exemplo "<aperriar
-127.0.0.1:8888>", você estará enviando vários pacotes através dos clients para a
-porta do ip especificado.
-<br><br>
-Comando: ```<espiar hosts up>```<br>
- Ao enviar este comando no server.py para os clients, estes retornaram o seu IP
-para o server; assim o server saberá quem está na escuta na botnet. 
+
+<a href="https://drive.google.com/file/d/1__5rR0T631FAkVW5nKpWqcJ3idK4Hkp_/view?usp=sharing" target="_blank">Clique aqui para ler o resto no google drive...</a>
