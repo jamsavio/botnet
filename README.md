@@ -12,12 +12,14 @@ aos acessos mas por serem muitos, fica extremamente lento, tornando inviável a
 utilização do servidor
 
 <h3>Parâmetros da botnet :</h3>
-Comando: ```<esganar slaves>```<br>
+Comando:
+> <esganar slaves>
  Ao enviar este comando no server.py os clients que estiverem escutando o
 server irão encerrar o processo client.py, interrompendo assim a comunicação
 com o mesmo.
 <br><br>
-Comando: ```<aperriar ip:port>```<br>
+Comando: 
+> <aperriar ip:port> <br>
  Ao enviar este comando no server.py, por exemplo "<aperriar
 127.0.0.1:8888>", você estará enviando vários pacotes através dos clients para a
 porta do ip especificado.
