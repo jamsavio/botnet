@@ -12,17 +12,17 @@ aos acessos mas por serem muitos, fica extremamente lento, tornando inviável a
 utilização do servidor
 
 Parâmetros da botnet :
-
-<esganar slaves>
+<br>
+<b><esganar slaves></b>
  Ao enviar este comando no server.py os clients que estiverem escutando o
 server irão encerrar o processo client.py, interrompendo assim a comunicação
 com o mesmo.
-
-<aperriar ip:port>
+<br>
+<b><aperriar ip:port></b>
  Ao enviar este comando no server.py, por exemplo “<aperriar
 127.0.0.1:8888>”, você estará enviando vários pacotes através dos clients para a
 porta do ip especificado.
-  
-<espiar hosts up>
+<br>
+<b><espiar hosts up></b>
  Ao enviar este comando no server.py para os clients, estes retornaram o seu IP
 para o server; assim o server saberá quem está na escuta na botnet. 
