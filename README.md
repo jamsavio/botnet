@@ -13,4 +13,4 @@ utilização do servidor
 
 <h3>Parâmetros da botnet :</h3>
 
-<a href="https://drive.google.com/file/d/1__5rR0T631FAkVW5nKpWqcJ3idK4Hkp_/view?usp=sharing" target="_blank">Clique aqui para ler o resto no google drive...</a>
+<a href="https://drive.google.com/file/d/1__5rR0T631FAkVW5nKpWqcJ3idK4Hkp_/view?usp=sharing" target="_blank">Clique aqui para ler no Google Drive...</a>
